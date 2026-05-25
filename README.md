@@ -1,4 +1,4 @@
-# SOC Lab 2: PCAP Threat Analysis — LummaC2 Info-Stealer
+# SOC Lab 2: PCAP Threat Analysis: LummaC2 Info-Stealer
 
 ## Overview
 Packet capture analysis of a suspected info-stealer infection on an 
